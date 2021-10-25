@@ -1,0 +1,11 @@
+26560ff8e923977df976a2aec54fc579 *DESCRIPTION
+98abb0c9f18064e3a2a9968974824946 *LICENSE
+fded654666fc28ca1274c2ac12a0b8f1 *NAMESPACE
+39bf935ead9e2e02d4eaf4240e7c9762 *NEWS.md
+b0a249887ec89f78c027fcc26e3452ae *R/prediction_client.R
+4ca7b823ddfee009a1e88509c948f403 *R/prediction_client_utils.R
+a04a96efdc876cac9cdd598add5bcb56 *README.md
+e3466c5edf77f7da310b10c8e733dfd7 *man/PredictionClient-class.Rd
+0ccca58acc0dacf4fa3b96d4a33a927a *tests/testthat.R
+a10c298d4e667262fb964f65d82a1603 *tests/testthat/test_prediction_client.R
+12955640e48aaab3e06ba43c342fe69c *tests/testthat/test_prediction_client_utils.R
